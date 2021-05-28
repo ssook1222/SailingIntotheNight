@@ -1,0 +1,2093 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.please.myapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity android:name="com.please.myapp.scene33.ThirtythreeFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity"
+            ></activity>
+        <activity
+            android:name="com.please.myapp.Tutorial"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene33.ThirtythreeThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene33.ThirtythreeTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene33.ThirtythreeOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene32.ThirtytwoSeventeen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene32.ThirtytwoSixteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene32.ThirtytwoFifteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene32.ThirtytwoFourteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene32.ThirtytwoThirteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene32.ThirtytwoTwelve"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene32.ThirtytwoEleven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene32.ThirtytwoTen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene32.ThirtytwoNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene32.ThirtytwoEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene32.ThirtytwoSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene32.ThirtytwoSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene32.ThirtytwoFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene32.ThirtytwoFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene32.ThirtytwoThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene32.ThirtytwoTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene32.ThirtytwoOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene31.ThirtyoneEleven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene31.ThirtyoneTen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene31.ThirtyoneNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene31.ThirtyoneEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene31.ThirtyoneSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene31.ThirtyoneSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene31.ThirtyoneFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene31.ThirtyoneFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene31.ThirtyoneThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene31.ThirtyoneTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene31.ThirtyoneOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene30.ThirtyEleven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene30.ThirtyTen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene30.ThirtyNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene30.ThirtyEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene30.ThirtySeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene30.ThirtySix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene30.ThirtyFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene30.ThirtyFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene30.ThirtyThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene30.ThirtyTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene30.ThirtyOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene29.TwentynineEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene29.TwentynineSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene29.TwentynineSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene29.TwentynineFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene29.TwentynineFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene29.TwentynineThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene29.TwentynineTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene29.TwentynineOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene28.TwentyeightFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene28.TwentyeightThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene28.TwentyeightTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene28.TwentyeightOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene27.TwentysevenThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene27.TwentySevenTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene27.TwentysevenOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene26.TwentysixEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene26.TwentysixSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene26.TwentysixSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene26.TwentysixFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene26.TwentysixFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene26.TwentysixThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene26.TwentysixTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene26.TwentysixOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene25.TwentyfiveEleven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene25.TwentyfiveTen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene25.TwentyfiveNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene25.TwentyfiveEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene25.TwentyfiveSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene25.TwentyfiveSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene25.TwentyfiveFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene25.TwentyfiveFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene25.TwentyfiveThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene25.TwentyfiveTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene25.TwentyfiveOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene24.TwentyfourSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene24.TwentyfourSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene24.TwentyfourFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene24.TwentyfourFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene24.TwentyfourThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene24.TwentyfourTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene24.TwentyfourOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeNineteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeEighteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeSeventeen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeSixteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeFifteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeFourteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeThirteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeTwelve"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeEleven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeTen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene23.TwentythreeOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene22.TwentytwoEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene22.TwentytwoSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene22.TwentytwoSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene22.TwentytwoFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene22.TwentytwoFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene22.TwentytwoThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene22.TwentytwoTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene22.TwentytwoOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene21.TwentyoneFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene21.TwentyoneFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene21.TwentyoneThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene21.TwentyoneTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene21.TwentyoneOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene21_bad.TwentyoneBadEleven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene21_bad.TwentyoneBadTen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene21_bad.TwentyoneBadNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene21_bad.TwentyOneBadEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene21_bad.TwentyoneBadSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene21_bad.TwentyoneBadSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene21_bad.TwentyoneBadFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene21_bad.TwentyoneBadFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene21_bad.TwentyoneBadThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene21_bad.TwentyoneBadTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene21_bad.TwentyoneBadOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene20.TwentyEleven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene20.TwentyTen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene20.TwentyNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene20.TwentyEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene20.TwentySeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene20.TwentySix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene20.TwentyFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene20.TwentyFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene20.TwentyThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene20.TwentyTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene20.TwentyOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene19.NineteenEighteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene19.NineteenSeventeen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene19.NineteenSixteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene19.NineteenFifteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene19.NineteenFourteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene19.NineteenThirteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene19.NineteenTwelve"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene19.NineteenEleven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene19.NineteenTen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene19.NineteenNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene19.NineteenEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene19.NineteenSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene19.NineteenSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene19.NineteenFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene19.NineteenFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene19.NineteenThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene19.NineteenTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene19.NineteenOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene18.EighteenNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene18.EighteenEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene18.EighteenSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene18.EighteenSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene18.EighteenFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene18.EighteenFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene18.EighteenThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene18.EighteenTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene18.EighteenOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene17.SeventeenSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene17.SeventeenSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene17.SeventeenFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene17.SeventeenFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene17.SeventeenThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene17.SeventeenTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene17.SeventeenOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenNineteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenEighteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenSixteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenFifteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenFourteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenThirteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenTwelve"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenSeventeen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenEleven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenTen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene16.SixteenOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene15.FifteenEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene15.FifteenSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene15.FifteenSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene15.FifteenFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene15.FifteenFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene15.FifteenThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene15.FifteenTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene15.FifteenOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene14.FourteenEighteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene14.FourteenSeventeen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene14.FourteenSixteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene14.FourteenFifteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene14.Fourteenfourteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene14.FourteenThirteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene14.FourteenTwelve"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene14.FourteenEleven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene14.FourteenTen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene14.FourteenNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene14.FourteenEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene14.FourteenSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene14.FourteenSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene14.FourteenFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene14.FourteenFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene14.FourteenThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene14.FourteenTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene14.FourteenOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene13.ThirteenThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene13.ThirteenTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene13.ThirteenOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene12.TwelveSixteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene12.TwelveFifteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene12.TwelveFourteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene12.TwelveTwelve"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene12.TwelveThirteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene12.TwelveEleven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene12.TwelveTen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene12.TwelveNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene12.TwelveEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene12.TwelveSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene12.TwelveSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene12.TwelveFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene12.TwelveFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene12.TwelveThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene12.TwelveTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene12.TwelveOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene11.ElevenSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene11.ElevenSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene11.ElevenFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene11.ElevenFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene11.ElevenThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene11.ElevenTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene11.ElevenOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene10.TenNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene10.TenEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene10.TenSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene10.TenSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene10.TenFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene10.TenFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene10.TenThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene10.TenTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene10.TenOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineTwenty"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineTwentyone"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineNineteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineEighteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineSeventeen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineSixteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineFifteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineFourteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineThirteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineTwelve"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineEleven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineTen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene9.NineOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene8.EightThirteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene8.EightTwelve"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene8.EightEleven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene8.EightTen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene8.EightNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene8.EightEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene8.EightSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene8.EightSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene8.EightFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene8.EightFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene8.EightThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene8.EightTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene8.EightOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene7.SevenEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene7.SevenSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene7.SevenSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene7.SevenFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene7.SevenFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene7.SevenThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene7.SevenTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene7.SevenOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SixNineteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SixEighteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SixSixteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SixSeventeen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SixFifteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SixFourteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SixThirteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SixEleven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SixTwelve"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SixTen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SixNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SIxEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SixSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SixSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SixFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SixFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SixThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SixTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene6.SixOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.Fivefifty"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.Fivefourtynine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.Fivefourtyeight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.Fivefourtyseven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.Fivefourtysix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.Fivefourtyfive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.Fivefourtyfour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.Fivefourtythree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.Fivefourtytwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.Fivefourtyone"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveFourty"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveThirtynine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveThirtyeight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveThirtyseven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveThirtysix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveThirtyfive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveThirtyfour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveThirtythree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveThirtytwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveThirtyone"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveThirty"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveTwentynine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveTwentyeight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveTwentyseven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveTwentysix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveTwentyfive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveTwentyfour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveTwentythree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveTwentytwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveTwentyOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveTwenty"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveNineTeen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveEighteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveSeventeen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveFifteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveSixteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveFourteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveThirteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveTwelve"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveEleven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveTen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene5.FiveOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene4.FourTwelve"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene4.FourEleven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene4.FourTen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene4.FourNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene4.FourEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene4.FourSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene4.FourSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene4.FourFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene4.FourFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene4.FourThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene4.FourTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene4.FourOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene3.ThreeEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene3.ThreeSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene3.ThreeSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene3.ThreeFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene3.ThreeFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene3.ThreeThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene3.ThreeTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene3.ThreeOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoNineteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoEighteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoSeventeen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoSixteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoFifteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoFourteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoThirteen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoTwelve"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoEleven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoTen"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoNine"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoEight"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoSeven"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoSix"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoFive"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoFour"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoThree"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoTwo"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.scene2.TwoOne"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.Eleventh_Activity"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.Tenth_Activity"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.NinethActivity"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.EighthActvity"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.SeventhActivity"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.SixthActivity"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.FifthActivity"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.FourthActvity"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.ThirdActivity"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.NextActivity"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.please.myapp.MainActivity"
+            android:noHistory="true"
+            android:screenOrientation="userLandscape"
+            tools:ignore="LockedOrientationActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service android:name="com.please.myapp.MusicService" />
+    </application>
+
+</manifest>
