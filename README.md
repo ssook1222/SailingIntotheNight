@@ -1,5 +1,5 @@
 # SailingIntotheNight
-SKLookie 개발 플젝
+### SKLookie 개발 플젝
 
 ▼ 아래의 링크에서 다운로드해서 플레이 가능   
 https://play.google.com/store/apps/details?id=com.notexample.myapp
