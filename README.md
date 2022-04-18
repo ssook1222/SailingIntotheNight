@@ -45,6 +45,12 @@
 --- 
 ### ❄️ 게임 내 선택 알고리즘
 
+아래는 게임 내 일부 선택 알고리즘만 담은 내용들입니다.
+
+<img width="549" alt="스크린샷 2022-04-19 오전 5 04 03" src="https://user-images.githubusercontent.com/60427387/163869576-b186934c-03cb-411a-9619-128fe8a815da.png">
+<img width="431" alt="스크린샷 2022-04-19 오전 5 03 32" src="https://user-images.githubusercontent.com/60427387/163869582-d928e381-cc02-4281-9095-2e4e3ddeba0f.png">
+
+
 
 
 ---
