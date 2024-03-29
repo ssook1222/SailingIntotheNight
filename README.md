@@ -34,9 +34,9 @@
 
 `프로젝트 성과`
 
-- **구글 플레이 스토어 출시**
+- **원 스토어 출시**
     
-    [Sailing into the night - Apps on Google Play](https://play.google.com/store/apps/details?id=com.notexample.myapp)
+    [Sailing into the night - Apps on OneStore][(https://play.google.com/store/apps/details?id=com.notexample.myapp](https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000746984))
     
 - 굿즈 및 책 **크라우드 펀딩 100% 달성**
     
